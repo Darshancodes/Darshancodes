@@ -73,6 +73,8 @@ A Software Developer and Startup Enthusiast
 
 <a href="https://github.com/Darshancodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshancodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshancodes&show_icons=true&locale=en&layout=compact" alt="darshancodes" /></p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Darshan.codes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
