@@ -8,8 +8,8 @@ A Software Developer and Startup Enthusiast
 * 🖥️  See my portfolio at [Darshancodes](http://Darshancodes.tk)
 * ✉️  You can contact me at [mandadedarshan@gmail.com](mailto:mandadedarshan@gmail.com)
 * 🚀  I'm currently working on [Many Products](http://github.com/Darshancodes)
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I'm a startup enthusiast and free to talk about startups!
+* 🤝  I'm open to collaborate on Interesting Projects
+* ⚡  I'm a startup enthusiast and open to talk about startups!
 
 ### Skills
 
